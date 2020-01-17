@@ -8,3 +8,5 @@
 17-01-2020 13:11:21.617 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 8080 (http) with context path ''
 17-01-2020 13:11:21.622 [main] INFO  c.dawang.wechat.DawangwxApplication.logStarted - Started DawangwxApplication in 1.123 seconds (JVM running for 1.663)
 17-01-2020 13:12:04.966 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17-01-2020 13:17:54.216 [RMI TCP Connection(18)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+17-01-2020 13:17:54.218 [RMI TCP Connection(18)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
