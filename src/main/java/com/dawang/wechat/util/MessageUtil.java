@@ -19,6 +19,10 @@ import com.thoughtworks.xstream.io.HierarchicalStreamWriter;
 import com.thoughtworks.xstream.io.xml.PrettyPrintWriter;
 import com.thoughtworks.xstream.io.xml.XppDriver;
 
+/**
+ * @author dawang
+ * https://developers.weixin.qq.com/doc/offiaccount/en/Message_Management/Receiving_standard_messages.html
+ */
 
 public class MessageUtil {  
 

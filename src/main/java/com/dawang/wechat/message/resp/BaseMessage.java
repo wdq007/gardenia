@@ -2,9 +2,8 @@ package com.dawang.wechat.message.resp;
 
 /**
  * 消息基类（普通用户 -> 公众帐号）
- * 
- * @author liufeng
- * @date 2013-05-19
+ * https://github.com/binarywang
+ * @author dawang
  */
 public class BaseMessage {
 	// 开发者微信号
