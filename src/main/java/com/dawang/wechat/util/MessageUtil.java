@@ -94,7 +94,7 @@ public class MessageUtil {
 
 	public static final Object EVENT_TYPE_VIEW = "view";
 
-	public static final Object REQ_MESSAGE_TYPE_VIDEO = "vedio";  
+	public static final Object REQ_MESSAGE_TYPE_VIDEO = "video";  
 
     /**
      * @Description: 解析微信发来的请求（XML） 

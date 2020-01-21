@@ -4,13 +4,14 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 
-//import cc.feefox.wechat.common.constant.WechatConstant;
+
 
 /**
  * 校验签名工具类
- * @Package: cc.feefox.wechat.common.util 
- * @author: cc   
- * @date: 2018年8月18日 下午12:17:19
+ * @Package: com.dawang.wechat.util
+ * @author: dawang
+ * @date: 2019年8月18日 下午12:17:19
+ * https://developers.weixin.qq.com/doc/offiaccount/en/Basic_Information/Access_Overview.html
  */
 public class SignatureUtil {
 
