@@ -17,5 +17,3 @@ https://developers.weixin.qq.com/doc/offiaccount/en/Message_Management/Receiving
 [WxJava - 微信开发 Java SDK（开发工具包）](https://github.com/Wechat-Group/WxJava.git) 
 
 [Binary Wang](https://github.com/binarywang)
-
-
