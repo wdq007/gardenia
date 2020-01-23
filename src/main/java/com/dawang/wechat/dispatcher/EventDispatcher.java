@@ -26,6 +26,7 @@ public class EventDispatcher {
     	imgmsg.setFromUserName(mpid);
     	imgmsg.setCreateTime(new Date().getTime());
     	imgmsg.setMsgType(MessageUtil.RESP_MESSAGE_TYPE_IMAGE);
+    	System.out.print(map.get("Event"));
         if (map.get("Event").equals(MessageUtil.EVENT_TYPE_SUBSCRIBE)) { //关注事件
             System.out.println("==============这是关注事件！");
             Image img = new Image();

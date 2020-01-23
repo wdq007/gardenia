@@ -26,7 +26,7 @@ public class HttpPostUploadUtil {
 
     public HttpPostUploadUtil(){
     	//+GlobalConstants.getString("access_token")
-        urlStr = "http://file.api.weixin.qq.com/cgi-bin/media/upload?access_token="+"28_1TP8GXYBKKtbAlGcKAGQMoQsmWpq_G8e7lg8j2rY4QvbpcoT-9dw8ivV-mtWXisXRQEWJRENUcHECjAlObOqF50xZvUK7Poo8Jz-JuXNlBWbRvQP1tsuCFt0iSEOrPMpS48u4WJABxiCpnVMRIRdAEAMDM"+"&type=image";  
+        urlStr = "http://file.api.weixin.qq.com/cgi-bin/media/upload?access_token="+"29_5rYb8A6WfEuVaFNuVqUjAPe2Tkr1Wu0xkHhsxOhWVLuuW80_m4wS87hG-rb8CmxM-9XDHOoWPHIfRWO4a6EP3gG-0_EfB5fBBBraZm6lcaW-MxRcLX449MDZd3xdvX2O72eb_fxDtH7DtMeqZHQaAJAEMV"+"&type=image";  
     }
 
     /** 
