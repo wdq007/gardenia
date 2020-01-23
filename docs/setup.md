@@ -1,4 +1,4 @@
-# Set UP Spring Tool Suite
+# 搭建开发环境：Set UP Spring Tool Suite
 
 # Springboot Wechat development
 https://github.com/binarywang/weixin-java-mp-demo-springboot.git
